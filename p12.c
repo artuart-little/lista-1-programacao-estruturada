@@ -3,10 +3,10 @@
 int main() {
     int N;
 
-    printf("Insira o número inteiro: ");
+    printf("Insira o número inteiro:\n");
     scanf("%i", &N);
     
-    printf("\nTabuada do %i:\n", N);
+    printf("Tabuada do %i:\n", N);
 
     for (int i = 1; i <= 20; i++){
         printf("%i x %i = %i\n", N, i, i*N);

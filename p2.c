@@ -17,5 +17,5 @@ int main(){
     printf("Consumo médio foi de: %.3f km/l", consumo);
     
     return 0;
-
+    
 }

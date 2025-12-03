@@ -13,5 +13,5 @@ int main(){
     printf("Os carros se encontrarão no minuto %f", tempo*60);
     
     return 0;
-
+    
 }

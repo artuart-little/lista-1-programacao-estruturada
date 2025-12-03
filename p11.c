@@ -4,10 +4,10 @@ int main() {
     
     int v1, v2, inicio, fim, soma = 0;
 
-    printf("Digite o primeiro número: ");
+    printf("Digite o primeiro número:\n");
     scanf("%i", &v1);
     
-    printf("Digite o segundo número: ");
+    printf("Digite o segundo número:\n");
     scanf("%i", &v2);
 
     if (v1 > v2){

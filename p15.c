@@ -8,7 +8,7 @@ int main() {
     
     for (int i = 0; i < N; i++){
 
-        printf("\nDigite o %iº par:\n", i+1);
+        printf("Digite o %iº par:\n", i+1);
 
         float x, y;
 

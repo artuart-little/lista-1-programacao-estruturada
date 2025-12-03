@@ -30,7 +30,7 @@ int main() {
         printf("Digite o primeiro número:\n");
         scanf("%i", &v1);
         
-        printf("Digite o segundo número:\n");
+        printf("Digite o segundo número:");
         scanf("%i", &v2);
     }   
 

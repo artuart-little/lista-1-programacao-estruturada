@@ -4,7 +4,7 @@ int main(){
     float salario, reajuste;
     int porcentagem;
 
-    printf("Digite o salário: ");
+    printf("Digite o salário:\n");
     scanf("%f", &salario);
 
     if (salario < 1500){

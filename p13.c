@@ -5,7 +5,7 @@ int main() {
     int valor;
 
     for (int i = 0; i < 10; i++){
-        printf("Digite o %iº número: ", i+1);
+        printf("\nDigite o %iº número:\n", i+1);
         scanf("%i", &valor);
         valores[i] = valor;
     }

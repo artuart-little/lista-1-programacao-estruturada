@@ -10,5 +10,5 @@ int main(){
     printf("%d:%d:%d\n", N/3600, (N/60)%60, N%60);
 
     return 0;
-
+    
 }

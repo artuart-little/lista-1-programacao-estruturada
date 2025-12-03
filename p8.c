@@ -25,4 +25,5 @@ int main() {
     printf("Duração do jogo: %d hora(s) e %d minuto(s)\n", horas, minutos);
 
     return 0;
+    
 }
