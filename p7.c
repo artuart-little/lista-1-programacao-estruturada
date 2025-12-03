@@ -4,13 +4,13 @@ int main() {
 
     int v1, v2, v3;
     
-    printf("Digite o 1º valor: "); 
+    printf("Digite o 1º valor:\n"); 
     scanf("%i", &v1);
 
-    printf("Digite o 2º valor: "); 
+    printf("Digite o 2º valor:\n"); 
     scanf("%i", &v2);
 
-    printf("Digite o 3º valor: "); 
+    printf("Digite o 3º valor:\n"); 
     scanf("%i", &v3);
 
     int a = v1, b = v2, c = v3;
@@ -28,7 +28,7 @@ int main() {
         temp = b; b = c; c = temp;
     }
 
-    printf("\nOrdenado: %d, %d, %d\n", a, b, c);
+    printf("Ordenado: %d, %d, %d\n", a, b, c);
     printf("-----------------------\n");
     printf("Original: %d, %d, %d\n", v1, v2, v3);
 
